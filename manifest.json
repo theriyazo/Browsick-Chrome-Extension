@@ -1,0 +1,14 @@
+{
+    "name": "Browsick",
+    "version": "0.01",
+    "description": "Browse With Music",
+    "browser_action": {
+        "default_title": "Browsick",
+        "default_popup": "popout.html"
+    },
+    "background": {
+        "page": "background.html",
+        "persistent": true
+    },
+    "manifest_version": 2
+}
