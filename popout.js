@@ -7,6 +7,7 @@ document.querySelector('button.play').addEventListener('click', function(){
 
 document.querySelector('button.pause').addEventListener('click', function(){
 
+
     chrome.runtime.sendMessage({name: "pauseTrack"});
 });
 

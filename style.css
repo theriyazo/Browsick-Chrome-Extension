@@ -1,5 +1,82 @@
 
-body{
-    width:400px;
-    background:grey;
+
+@font-face {
+    font-family: MyFont;
+    src: url(Maragsâ.otf);
+  }
+  @font-face {
+    font-family: poppins;
+    src: url(Poppins-Medium.ttf);
+  }
+
+html{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #20AD65;
+    /* background-image:  url('Browsick_bgi.png'); */
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 250px;
+    position: relative;
+    box-shadow: 0px 4px 13px rgba(0, 0, 0, 0.15);
+
+
+    /* background:grey; */
+}
+
+/* h1{
+    font-family: MyFont;
+    
+    position: absolute;
+    width: 142px;
+    height: 44px;
+    left: 136px;
+    top: 30px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 44px;
+     identical to box height 
+
+    letter-spacing: 0.05em;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 0px 50px #000000;
+} */
+
+div{
+    align-items: center;
+}
+.sel select{
+    border: none;
+
+    width: 100px;
+    background: #f2f2f200;
+    color: #FEC8BE;
+    /* border-radius: 5%; */
+    font-family: poppins;
+
+}
+.sel{
+    padding: 5% 0 3% 13%;
+
+}
+.btn button{
+    font-family: poppins;
+    color: #FEC8BE;
+    border: none;
+    background-color: #14C48A;
+    
+}
+.pad{
+    padding-right: 10%;
+
+}
+.btn {
+    
+    text-decoration: none;
+    padding: 0% 0 0% 13%;
 }
