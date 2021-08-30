@@ -4,25 +4,21 @@
     font-family: MyFont;
     src: url(Maragsâ.otf);
   }
-  @font-face {
-    font-family: poppins;
-    src: url(Poppins-Medium.ttf);
-  }
+@font-face {
+font-family: poppins;
+src: url(Poppins-Medium.ttf);
+}
 
 html{
     display: flex;
     flex-direction: column;
     align-items: center;
     background-color: #20AD65;
-    /* background-image:  url('Browsick_bgi.png'); */
+
     background-repeat: no-repeat;
     height: 230px;
     width: 200px;
     position: relative;
-    box-shadow: 0px 4px 13px rgba(0, 0, 0, 0.15);
-
-
-    /* background:grey; */
 }
 
 img{
@@ -35,11 +31,15 @@ div{
 
 
 .sel select{
-    border: none;
+    border-style: none none solid none;
+    border-bottom-width: 1px;
+    border-color: #FFDCD2;
     cursor: pointer;
-    padding-bottom: 5%;
-    width: 100px;
-    background: #f2f2f200;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    width: auto;
+    padding: 0% 0 3% 0%;
+    background-color: #20AD65;
     color: #FFDCD2;
     font-family: poppins;
 
@@ -60,7 +60,7 @@ div{
 
 .play, .pause{
     margin-right: 4%;
-
+    box-shadow: 0px 4px 13px rgba(0, 0, 0, 0.15);
     border-radius: 5px;
     cursor: pointer;
     text-align: center;
