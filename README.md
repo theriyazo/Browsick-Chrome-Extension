@@ -3,7 +3,7 @@
 
 
 
-![Browsick](https://1.bp.blogspot.com/-cJ2jw2C6-HU/YS5yo4R_45I/AAAAAAAAjWk/4s6FPCpiTVIJKqMoLYeQI3tz3PjIQAdnQCLcBGAsYHQ/s812/X%2B-%2B3.png)
+![Browsick](https://1.bp.blogspot.com/-H96SyS5MJfU/YS5zlQrNoVI/AAAAAAAAjWs/UL8DS6zMY4kDAlLynbRzycFLbOp6FbPCQCLcBGAsYHQ/s1112/X%2B-%2B3.png)
 
 ## Badges
 [![Repo Size](https://img.shields.io/github/repo-size/theriyazo/Browsick-Chrome-Extension)]()
