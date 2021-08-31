@@ -1,7 +1,7 @@
 {
     "name": "Browsick",
     "version": "0.3",
-    "description": "Browse With Music",
+    "description": "Browse With Music - This Chrome extension lets you play lo-fi in the background while surfing the web.",
     "browser_action": {
         "default_title": "Browsick",
         "default_popup": "popout.html"
