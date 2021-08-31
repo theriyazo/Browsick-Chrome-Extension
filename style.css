@@ -1,5 +1,76 @@
 
-body{
-    width:400px;
-    background:grey;
+
+@font-face {
+    font-family: MyFont;
+    src: url(Maragsâ.otf);
+  }
+@font-face {
+font-family: poppins;
+src: url(Poppins-Medium.ttf);
+}
+
+html{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #20AD65;
+
+    background-repeat: no-repeat;
+    height: 230px;
+    width: 200px;
+    position: relative;
+}
+
+img{
+    margin-top: 9%;
+}
+
+div{
+    align-items: center;
+}
+
+
+.sel select{
+    border-style: none none solid none;
+    border-bottom-width: 1px;
+    border-color: #FFDCD2;
+    cursor: pointer;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    width: auto;
+    padding: 0% 0 3% 0%;
+    background-color: #20AD65;
+    color: #FFDCD2;
+    font-family: poppins;
+
+}
+
+
+.sel{
+    padding: 7% 0 3% 13%;
+
+}
+.btn button{
+    font-family: poppins;
+    color: #FFDCD2;
+    border: none;
+    background-color: #14C48A;
+    
+}
+
+.play, .pause{
+    margin-right: 4%;
+    box-shadow: 0px 4px 13px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.play:hover,.pause:hover{
+    background-color: #FFDCD2;
+    color: #14C48A;
+}
+
+.btn {
+    padding: 0% 0 0% 13%;
 }
