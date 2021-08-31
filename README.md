@@ -1,8 +1,9 @@
 
 # Browsick - Chrome Extension
 
-A Chrome Extension that lets users play lo-fi songs while browsing the internet.
 
+
+![Browsick](https://1.bp.blogspot.com/-cJ2jw2C6-HU/YS5yo4R_45I/AAAAAAAAjWk/4s6FPCpiTVIJKqMoLYeQI3tz3PjIQAdnQCLcBGAsYHQ/s812/X%2B-%2B3.png)
 
 ## Badges
 [![Repo Size](https://img.shields.io/github/repo-size/theriyazo/Browsick-Chrome-Extension)]()
