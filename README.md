@@ -12,7 +12,7 @@ A Chrome Extension that lets users play lo-fi songs while browsing the internet.
 [![GitHub License](https://img.shields.io/github/license/theriyazo/Browsick-Chrome-Extension)]()
   
 ## Logo
-![Logo](https://1.bp.blogspot.com/-1tMm-9z25d0/YS2DUFN4iLI/AAAAAAAAjT0/QnKY1WpT4wcfOicZheG-MEnXF4Kb_YHNACLcBGAsYHQ/s472/icon.png)
+![Logo](https://1.bp.blogspot.com/-zREyH3fHO2k/YS5wyXAh-iI/AAAAAAAAjWY/Z45p36I9BGsai6fG8KqGrFxEZPCZn745gCLcBGAsYHQ/s812/X%2B-%2B2.png)
 
     
 ## Demo
@@ -20,11 +20,7 @@ A Chrome Extension that lets users play lo-fi songs while browsing the internet.
 
 ## Screenshots
 
-![App Screenshot](https://1.bp.blogspot.com/-Ibk3i7ZKads/YS2EfNYJCcI/AAAAAAAAjUE/WGzd2tgtISY1qZhT751WxlTxBwXtrXihwCLcBGAsYHQ/s1240/Frame%2B3.png)
-
-![App Screenshot](https://1.bp.blogspot.com/-LP7nSXknsCs/YS2EfflWsII/AAAAAAAAjUI/C1t_T4ycT1UDnESIoTibJujyKQvGLLQqgCLcBGAsYHQ/s1240/Frame%2B4.png)
-
-![App Screenshot](https://1.bp.blogspot.com/-DUzCDvIsYH0/YS2EeuFsnPI/AAAAAAAAjUA/UX9OU5D11CwoGyGBC8SIlaFR-eCMQL72ACLcBGAsYHQ/s1240/Frame%2B5.png)
+![App Screenshot](https://1.bp.blogspot.com/-90jLvrLy170/YS5wyWVIJEI/AAAAAAAAjWU/8gwJ86eQSWcrbdRcK5EDlexfZnyDEU6bACLcBGAsYHQ/s812/X%2B-%2B1.png)
 
 
   ## Color Reference
