@@ -14,11 +14,9 @@ A Chrome Extension that lets users play lo-fi songs while browsing the internet.
 ## Logo
 ![Logo](https://1.bp.blogspot.com/-zREyH3fHO2k/YS5wyXAh-iI/AAAAAAAAjWY/Z45p36I9BGsai6fG8KqGrFxEZPCZn745gCLcBGAsYHQ/s812/X%2B-%2B2.png)
 
+<br/>
     
-## Demo
-![Demo](https://1.bp.blogspot.com/-9LHEcc2uU5E/YS2CgrXsL-I/AAAAAAAAjTk/wsdAEaZo7r4gznM3UpK0_j_Jzf_MUwpAwCLcBGAsYHQ/s1000/GIF-210831_063307.gif)
-
-## Screenshots
+## Demo/Screenshots
 
 ![App Screenshot](https://1.bp.blogspot.com/-90jLvrLy170/YS5wyWVIJEI/AAAAAAAAjWU/8gwJ86eQSWcrbdRcK5EDlexfZnyDEU6bACLcBGAsYHQ/s812/X%2B-%2B1.png)
 
