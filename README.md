@@ -6,6 +6,8 @@
 ![Browsick](https://1.bp.blogspot.com/-H96SyS5MJfU/YS5zlQrNoVI/AAAAAAAAjWs/UL8DS6zMY4kDAlLynbRzycFLbOp6FbPCQCLcBGAsYHQ/s1112/X%2B-%2B3.png)
 
 ## Badges
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 [![Repo Size](https://img.shields.io/github/repo-size/theriyazo/Browsick-Chrome-Extension)]()
 [![Open Pull Request](https://img.shields.io/bitbucket/pr/theriyazo/Browsick-Chrome-Extension)]()
 
