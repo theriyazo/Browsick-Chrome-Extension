@@ -6,13 +6,13 @@
 ![Browsick](https://1.bp.blogspot.com/-H96SyS5MJfU/YS5zlQrNoVI/AAAAAAAAjWs/UL8DS6zMY4kDAlLynbRzycFLbOp6FbPCQCLcBGAsYHQ/s1112/X%2B-%2B3.png)
 
 ## Badges
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/github/license/theriyazo/Browsick-Chrome-Extension)](https://opensource.org/licenses/Apache-2.0)
 
 [![Repo Size](https://img.shields.io/github/repo-size/theriyazo/Browsick-Chrome-Extension)]()
 [![Open Pull Request](https://img.shields.io/bitbucket/pr/theriyazo/Browsick-Chrome-Extension)]()
 
 [![Code Size](https://img.shields.io/github/languages/code-size/theriyazo/Browsick-Chrome-Extension)]()
-[![GitHub License](https://img.shields.io/github/license/theriyazo/Browsick-Chrome-Extension)]()
+
   
 ## Logo
 ![Logo](https://1.bp.blogspot.com/-zREyH3fHO2k/YS5wyXAh-iI/AAAAAAAAjWY/Z45p36I9BGsai6fG8KqGrFxEZPCZn745gCLcBGAsYHQ/s812/X%2B-%2B2.png)
