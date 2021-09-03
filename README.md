@@ -6,11 +6,11 @@
 ![Browsick](https://1.bp.blogspot.com/-H96SyS5MJfU/YS5zlQrNoVI/AAAAAAAAjWs/UL8DS6zMY4kDAlLynbRzycFLbOp6FbPCQCLcBGAsYHQ/s1112/X%2B-%2B3.png)
 
 ## Badges
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GitHub license](https://img.shields.io/github/license/theriyazo/Browsick-Chrome-Extension)](https://github.com/theriyazo/Browsick-Chrome-Extension/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/theriyazo/Browsick-Chrome-Extension/blob/master/LICENSE)
+
 [![Repo Size](https://img.shields.io/github/repo-size/theriyazo/Browsick-Chrome-Extension)]()
 [![Open Pull Request](https://img.shields.io/bitbucket/pr/theriyazo/Browsick-Chrome-Extension)]()
-
+[![GitHub forks](https://img.shields.io/github/forks/theriyazo/Browsick-Chrome-Extension)](https://github.com/theriyazo/Browsick-Chrome-Extension/network)
 [![GitHub issues](https://img.shields.io/github/issues/theriyazo/Browsick-Chrome-Extension)](https://github.com/theriyazo/Browsick-Chrome-Extension/issues)
 [![Code Size](https://img.shields.io/github/languages/code-size/theriyazo/Browsick-Chrome-Extension)]()
 
