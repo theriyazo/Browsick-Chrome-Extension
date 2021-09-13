@@ -35,6 +35,6 @@
 
 | Logo Colors             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Just Green | ![#17C37B](https://via.placeholder.com/10/17C37B?text=+) #17C37B |
+| Green | ![#17C37B](https://via.placeholder.com/10/17C37B?text=+) #17C37B |
 | Just Red | ![#EE3E4A](https://via.placeholder.com/10/EE3E4A?text=+) #EE3E4A |
 | Just Yellow | ![#FDF06F](https://via.placeholder.com/10/FDF06F?text=+) #FDF06F |
